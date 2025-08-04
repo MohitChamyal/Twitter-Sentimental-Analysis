@@ -75,24 +75,7 @@ A modern, minimal web application that analyzes the sentiment of text using mach
 - **Loading Indicators** - Visual feedback during processing
 - **Example Suggestions** - Random placeholder examples
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Development Setup
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-### Areas for Improvement
-- [ ] Add more ML models (SVM, Neural Networks)
-- [ ] Implement sentiment intensity scoring
-- [ ] Add batch processing capability
-- [ ] Create REST API documentation
-- [ ] Add model retraining functionality
-- [ ] Implement user feedback collection
 
 
 
