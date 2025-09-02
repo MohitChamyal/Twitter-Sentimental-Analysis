@@ -27,8 +27,7 @@ A modern, minimal web application that analyzes the sentiment of text using mach
 ### Frontend
 - **HTML5** - Structure
 - **CSS3** - Styling with gradients and animations
-- **Vanilla JavaScript** - Interactive functionality
-- **Inter Font** - Modern typography
+- **JavaScript** - Interactive functionality
 
 ### Machine Learning
 - **Logistic Regression** - Classification algorithm
